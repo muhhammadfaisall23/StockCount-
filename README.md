@@ -1,2 +1,2 @@
 # StockCount Android Studio API 29-
-Magang Sarinah DTI 
+Magang Sarinah DTI 2020
