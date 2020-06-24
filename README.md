@@ -1,2 +1,3 @@
-# StockCount Android Studio API 29-
+# StockCount-
+Android Studio API 29
 Database MY SQL
